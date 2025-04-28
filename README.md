@@ -481,3 +481,40 @@ and so on.
         journal={Arxiv},
         year={2025}
     }
+
+# Codespace Setup
+
+## Prerequisites
+
+Before you can open a codespace, ensure you have the following prerequisites:
+
+1. A GitHub account.
+2. Access to the repository.
+3. GitHub Codespaces enabled for your account or organization.
+
+## Opening a Codespace
+
+Follow these steps to open a codespace for this repository:
+
+1. Navigate to the repository on GitHub.
+2. Click the "Code" button.
+3. Select the "Codespaces" tab.
+4. Click the "New codespace" button.
+
+## Step-by-Step Guide
+
+1. **Navigate to the Repository**: Open your web browser and go to the GitHub repository.
+2. **Open Codespaces**: Click on the "Code" button, then select the "Codespaces" tab.
+3. **Create a New Codespace**: Click on the "New codespace" button. This will start the codespace creation process.
+4. **Wait for Setup**: Wait for the codespace to be set up. This may take a few minutes.
+5. **Start Coding**: Once the codespace is ready, you can start coding immediately in the cloud environment.
+
+## Benefits of Using Codespaces
+
+- **Consistency**: Ensures a consistent development environment for all contributors.
+- **Convenience**: No need to set up the development environment locally.
+- **Collaboration**: Makes it easier to collaborate with others on the project.
+
+## Additional Configuration
+
+The `.devcontainer/devcontainer.json` file in this repository is configured to set up the development container with the necessary tools and dependencies. You can customize this file to add more features or tools as needed.
